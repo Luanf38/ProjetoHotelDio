@@ -1,0 +1,14 @@
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.AssemblyInfoInputs.cache
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.AssemblyInfo.cs
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\bin\Debug\net8.0\SistemaDeHotelDio.exe
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\bin\Debug\net8.0\SistemaDeHotelDio.deps.json
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\bin\Debug\net8.0\SistemaDeHotelDio.runtimeconfig.json
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\bin\Debug\net8.0\SistemaDeHotelDio.dll
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\bin\Debug\net8.0\SistemaDeHotelDio.pdb
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.dll
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\refint\SistemaDeHotelDio.dll
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.pdb
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\SistemaDeHotelDio.genruntimeconfig.cache
+C:\Users\Luan\Codigos\dotNet\cursos\Dio\SistemaDeHotelDio\SistemaDeHotelDio\obj\Debug\net8.0\ref\SistemaDeHotelDio.dll
